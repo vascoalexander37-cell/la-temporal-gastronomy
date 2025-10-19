@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -66,19 +67,19 @@
 </header>
 
 <section>
-  <h2>Publicar una oferta</h2>
+  <h2>📢 Publicar una oferta</h2>
   <p>Negocios y restaurantes pueden publicar sus vacantes aquí:</p>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesW7vS0QuemJZLcSec3ABossdyQFDPqNRqUaR7Hm5bTWcLgQ/viewform?usp=header
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesW7vS0QuemJZLcSec3ABossdyQFDPqNRqUaR7Hm5bTWcLgQ/viewform?embedded=true" width="100%" height="800">Cargando…</iframe>
 </section>
 
 <section>
-  <h2>Postúlate</h2>
-  <p>Si buscas empleo en gastronomía, pronto podrás postularte aquí:</p>
-  <!-- Aquí puedes insertar el iframe del formulario de postulantes -->https://docs.google.com/forms/d/e/1FAIpQLSczX7R5K4hfd-H_vPFgH9Zc1o9Xt_RX6Gme55t60jzz2AlDQA/viewform?usp=header
+  <h2>🧑‍🍳 Postúlate</h2>
+  <p>Si buscas empleo en gastronomía, completa este formulario:</p>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYJvZgFJZr7XwXGJZgJZgJZgJZgJZgJZgJZgJZgJZgJZgJZg/viewform?embedded=true" width="100%" height="800">Cargando…</iframe>
 </section>
 
 <section>
-  <h3>Protección de datos</h3>
+  <h3>🛡️ Protección de datos</h3>
   <p>La Temporal Gastronomy garantiza la protección de los datos personales conforme a la Ley 1581 de 2012. La información será usada exclusivamente para fines laborales y asesorías gastronómicas.</p>
 </section>
 
