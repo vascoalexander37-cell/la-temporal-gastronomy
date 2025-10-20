@@ -1,2 +1,2 @@
-# la-temporal-gastronomy
+astronomy
 bolsa de empleo gastronomico y asesorias
